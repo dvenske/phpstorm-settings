@@ -1,0 +1,45 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0ab47420-e99d-46ba-a2fe-2648aea44321" name="RP_Common_Account_Web" url="http://localhost">
+        <fileTransfer mountedRoot="Z:\rp_common_account_web" accessType="MOUNT" />
+      </webServer>
+      <webServer id="1514fdfb-aeff-496b-9672-7a86740bd1eb" name="surili_api" url="http://api.dvenske.dev.returnpath.net">
+        <fileTransfer mountedRoot="Z:\surili_api" accessType="MOUNT" />
+      </webServer>
+      <webServer id="160c24c6-74ae-4acc-9b2e-749b36ccc7eb" name="ndf" url="http://localhost">
+        <fileTransfer mountedRoot="Z:\emt_web\documentroot\ndf" accessType="MOUNT" />
+      </webServer>
+      <webServer id="d62225ed-36e8-40b2-82c5-1d1cb575867f" name="emt_web" url="http://localhost">
+        <fileTransfer mountedRoot="z:\emt_web" accessType="MOUNT" />
+      </webServer>
+      <webServer id="5b4ae5e8-ca38-4afb-859d-02961f91b76d" name="preview_emt_web" url="http://localhost">
+        <fileTransfer mountedRoot="z:\emt_web\documentroot\cp" accessType="MOUNT" />
+      </webServer>
+      <webServer id="d745a6c5-ae7d-4d8c-a897-f90d1fa0f633" name="venske" url="http://www.venske.net/test">
+        <fileTransfer host="www.venske.net" port="22" rootFolder="/var/www/test" accessType="SFTP" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fdc7acd7-3500-4223-9205-7b4df574251d" name="DAS" url="http://das.returnpath.net">
+        <fileTransfer host="das.returnpath.net" port="22" rootFolder="/na/home/dvenske" accessType="SFTP" password="df80df80dffedfdfdfd8dfdedfc6dfefdf98df9f" username="dvenske">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b5ccd986-fcb2-44a3-8e3d-38c36ec4e3ed" name="preview_emt_web SFTP" url="http://dvenske.dev.returnpath.net">
+        <fileTransfer host="dvenske.dev.returnpath.net" port="22" rootFolder="/home/dvenske/sync/" accessType="SFTP" password="df80df80dffedfdfdfd8dfdedfc6dfefdf98df9f" username="dvenske">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <sftpAdvancedGlobalOptions>
+      <SftpAdvancedOptions />
+    </sftpAdvancedGlobalOptions>
+  </component>
+</application>
