@@ -10,21 +10,22 @@
   </component>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://plugins.intellij.net/revu/ns/revu_1_0.xsd" location="$APPLICATION_HOME_DIR$/jre/jre/bin/file:/C:/Users/dvenske/.WebIde80/config/plugins/revu.jar!/org/sylfra/idea/plugins/revu/resources/schemas/revu_1_0.xsd" />
-    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
-    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
     <ignored-resource url="http://exslt.org/math" />
     <ignored-resource url="http://exslt.org/dynamic" />
     <ignored-resource url="http://exslt.org/common" />
-    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
         <option value="C:\_repos\preview_emt_web" />
+        <option value="C:\dev\rp_common_ndf_web" />
         <option value="C:\unison_dev\preview" />
         <option value="C:\Users\dvenske\PhpstormProjects\DAS" />
         <option value="C:\dev\emt_web" />
@@ -45,7 +46,6 @@
         <option value="C:\dev\preview_emt_web" />
         <option value="C:\dev\rp_crontabs_utils" />
         <option value="Z:\rp_client_reports" />
-        <option value="C:\dev\rp_common_ndf_web" />
         <option value="C:\dev\rp_common_account_web" />
         <option value="C:\dev\rp_common_web" />
         <option value="C:\dev\rp_webinject_scripts" />
