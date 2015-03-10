@@ -25,15 +25,15 @@
   <component name="RecentDirectoryProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="C:\_repos\placement_db_patches" />
+        <option value="C:\dev\emt_web" />
         <option value="C:\_repos\dashboard_emt_web" />
+        <option value="C:\_repos\placement_db_patches" />
         <option value="C:\Users\dvenske\Nitrous\verbatim\www\readme\translations" />
         <option value="C:\dev\surili_api" />
         <option value="C:\_repos\preview_emt_web" />
         <option value="C:\Users\dvenske\Nitrous\verbatim" />
         <option value="C:\_repos\internal_mtools_web" />
         <option value="C:\Users\dvenske\Nitrous\sandbox" />
-        <option value="C:\dev\emt_web" />
         <option value="C:\dev\rp_common_ndf_web" />
         <option value="C:\unison_dev\preview" />
         <option value="C:\Users\dvenske\PhpstormProjects\DAS" />
@@ -57,7 +57,7 @@
         <option value="C:\_repos\dashboard_emt_web" />
       </list>
     </option>
-    <option name="lastPath" value="C:\_repos\placement_db_patches" />
+    <option name="lastPath" value="C:\dev\emt_web" />
   </component>
   <component name="Registry">
     <entry key="ide.firstStartup" value="false" />
