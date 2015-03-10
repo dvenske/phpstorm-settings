@@ -48,6 +48,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e7316c68-88f4-40a5-95d0-9877cefac6d0" name="shornick.dev.returnpath.net" url="http://shornick.dev.returnpath.net">
+        <fileTransfer host="shornick.dev.returnpath.net" port="22" rootFolder="/local/www/emt_web/documentroot/dashboard_emt_web" accessType="SFTP" password="dfe9dfc5dfc9dfc1dfc2dfdfdfc4dfcddfcbdfdedf9edfc3dfc4dfc9dfc2dfcfdfd9" username="dvenske">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
