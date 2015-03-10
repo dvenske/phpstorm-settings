@@ -41,6 +41,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="03471ec4-1b39-4a15-b228-df512ef94b30" name="dashboard_emt_web SFTP" url="http://dvenske.dev.returnpath.net">
+        <fileTransfer host="dvenske.dev.returnpath.net" port="22" rootFolder="/home/dvenske/sync/" accessType="SFTP" password="df80df80dffedfdfdfd8dfdedfc6dfefdf98df9f" username="dvenske">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
